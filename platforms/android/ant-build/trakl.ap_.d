@@ -20,7 +20,7 @@
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/img \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/index.html \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/index_old.html \
-/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/index_ua.html \
+/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/index_us.html \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/js \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/lib \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/main_navigator.html \

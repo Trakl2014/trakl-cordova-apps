@@ -12,7 +12,39 @@
   <script src="lib/onsen/js/angular/angular.js"></script>    
   <script src="lib/onsen/js/onsenui.js"></script>    
   <script src="js/app.js"></script> 
-  
+  <script type="text/javascript" src="cordova.js"></script>
+    <script type="text/javascript">
+
+
+      var onDeviceReady = function() {
+        console.log("Device ready!")
+
+        // Callback for when a device has registered with Urban Airship.
+        PushNotification.registerEvent('registration', function (error, id) {
+            if (error) {
+                console.log('there was an error registering for push notifications');
+            } else {
+                console.log("Registered with ID: " + id);
+            }
+        })
+
+        // Register for any urban airship events
+        document.addEventListener("urbanairship.registration", function (event) {
+            if (event.error) {
+                console.log('there was an error registering for push notifications');
+            } else {
+                console.log("Registered with ID: " + event.pushID);
+            }
+        }, false)
+
+        document.addEventListener("urbanairship.push", function (event) {
+            console.log("Incoming push: " + event.message)
+        }, false)
+
+
+      document.addEventListener("deviceready", onDeviceReady, false)
+
+    </script>
 </head>
 
 <body>    

@@ -1,3 +1,31 @@
 .page-padding {
 	padding: 10px;
 }
+
+     .pie {
+          position: absolute;
+          width: 100px;
+          height: 100px;
+          -moz-border-radius: 50px;
+          -webkit-border-radius: 50px;
+          -o-border-radius: 50px;
+          border-radius: 50px;
+          clip: rect(0px, 50px, 100px, 0px);
+     }
+     .hold {
+          position: absolute;
+          width: 100px;
+          height: 100px;
+          -moz-border-radius: 50px;
+          -webkit-border-radius: 50px;
+          -o-border-radius: 50px;
+          border-radius: 50px;
+          clip: rect(0px, 100px, 100px, 50px);
+     }
+     #pieSlice1 .pie {
+          background-color: #1b458b;
+          -webkit-transform:rotate(50deg);
+          -moz-transform:rotate(50deg);
+          -o-transform:rotate(50deg);
+          transform:rotate(50deg);
+     }
