@@ -58,3 +58,7 @@
      background-color: #fecccc;
      color: #c1272e;
 }
+
+.attributions li {
+     list-style-type: none;
+}
