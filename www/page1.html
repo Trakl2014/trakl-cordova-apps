@@ -1,8 +1,8 @@
 <ons-page class="center">
 	<ons-scroller>
-		<div class="page-padding" ng-class="{gohome: sampleResponse.isImproving}" ng-controller="dataCtrl">
-			<h2>Split View</h2>
-			
+		<div class="page-padding mainDisplay" ng-class="{gohome: sampleResponse.isImproving}" ng-controller="dataCtrl">
+			<p>Your Trip</p>
+			<h1>Home</h1>
 			
 			
 			
@@ -11,9 +11,11 @@
 			     <div id="pieSlice1" class="hold"><div class="pie"></div></div>
 			</div> -->
 			<p>When in portrait, swipe right to reveal the secondary page.</p>
-			<img src="images/ico_swipe_right_s.png" alt="" >
-			<div >{{data}}</div>
-			<p>{{sampleResponse.userId}}</p>
+
+			<div class="travelTime">{{sampleResponse.travelTime}}</div>
+			<div class="trendIndicator" ></div>
+
+			<!-- <p>{{sampleResponse.userId}}</p> -->
 
 			<!-- <h2>Navigator</h2>
 			<ons-button ng-click="ons.$get('#main-navigator').pushPage('page3.html', { title: 'Page 3' })">

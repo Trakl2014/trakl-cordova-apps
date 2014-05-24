@@ -52,9 +52,36 @@
 .gohome {
      background-color: #D7F4D7;
      color: #106837;
+     height: 690px;
 }
 /*arc color #da7d82;*/
 .dontgo {
      background-color: #fecccc;
      color: #c1272e;
+}
+
+.attributions li {
+     list-style-type: none;
+}
+
+.travelTime {
+/*     width:150px;*/
+     margin: 20px auto;
+     font-size: 170px;
+
+}
+
+.trendIndicator {
+        background-repeat: no-repeat;
+     width: 313px;
+     height: 75px;
+     margin: 20px auto;  
+}
+.gohome .trendIndicator {
+     background-image: url(../img/green-arrow.svg);
+
+}
+
+.dontgo .trendIndicator {
+     background-image: url(../img/red-arrow.svg);
 }

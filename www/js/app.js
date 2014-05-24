@@ -7,7 +7,7 @@
             "userId": "24",
             "journeyRef": "tamaki",
             "travelTime": "34",
-            "isImproving": false
+            "isImproving": true
         }
         $scope.trafficData = [];
         console.log($scope.data)

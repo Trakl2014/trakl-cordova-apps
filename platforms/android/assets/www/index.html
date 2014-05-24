@@ -39,10 +39,11 @@
 
         document.addEventListener("urbanairship.push", function (event) {
             console.log("Incoming push: " + event.message)
+            alert(event.message);
         }, false)
 
 
-      document.addEventListener("deviceready", onDeviceReady, false)
+      document.addEventListener("deviceready", onDeviceReady, false);
 
     </script>
 </head>

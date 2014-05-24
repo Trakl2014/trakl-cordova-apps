@@ -48,7 +48,9 @@
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/css/mobiscroll.core-2.0.1.css \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/css/mobiscroll.jqm-2.0.1.css \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/images/ico_swipe_right_s.png \
+/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/img/green-arrow.svg \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/img/logo.png \
+/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/img/red-arrow.svg \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/js/app.js \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/js/index.js \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/js/jquery.js \
