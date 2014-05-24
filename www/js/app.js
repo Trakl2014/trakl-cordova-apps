@@ -2,21 +2,21 @@
     'use strict';
     var onsenApp = angular.module('myApp', ['onsen.directives']);
     onsenApp.controller('dataCtrl', function($scope, $http) {
-        $scope.data = 'datasadsa';
+        $scope.data = [];
         $scope.sampleResponse = {
             "userId": "24",
             "journeyRef": "tamaki",
-            "travelTime": "34",
+            "travelMinutes": "34",
             "isImproving": true
         }
         $scope.trafficData = [];
         console.log($scope.data)
         $scope.handleDataLoaded = function(data, status) {
-            $scope.fields = data.fields;
+            $scope.trafficData = data;
             console.log('handle', $scope.fields, data)
         }
         $scope.fetch = function() {
-            $http.get('trakl.herokuapp.com/api/travel-time').success($scope.handleDataLoaded);
+            $http.get('http://trakl.herokuapp.com/api/travel-time?userId=44').success($scope.handleDataLoaded);
             // $http({
             //     method: 'GET',
             //     url: 'javascripts/fieldDemoData2.json'

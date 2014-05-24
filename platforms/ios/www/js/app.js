@@ -7,7 +7,7 @@
             "userId": "24",
             "journeyRef": "tamaki",
             "travelTime": "34",
-            "isImproving": false
+            "isImproving": true
         }
         $scope.trafficData = [];
         console.log($scope.data)
@@ -16,7 +16,7 @@
             console.log('handle', $scope.fields, data)
         }
         $scope.fetch = function() {
-            $http.get('trakl.herokuapp.com/api/travel-time').success($scope.handleDataLoaded);
+            $http.get('http://trakl.herokuapp.com/api/travel-time?userId=44').success($scope.handleDataLoaded);
             // $http({
             //     method: 'GET',
             //     url: 'javascripts/fieldDemoData2.json'

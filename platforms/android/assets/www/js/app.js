@@ -16,7 +16,7 @@
             console.log('handle', $scope.fields, data)
         }
         $scope.fetch = function() {
-            $http.get('trakl.herokuapp.com/api/travel-time').success($scope.handleDataLoaded);
+            $http.get('http://trakl.herokuapp.com/api/travel-time?userId=44').success($scope.handleDataLoaded);
             // $http({
             //     method: 'GET',
             //     url: 'javascripts/fieldDemoData2.json'

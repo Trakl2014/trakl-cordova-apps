@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"ba",
+				"background-repeat"
+			],
+			[
 				"b",
 				"background"
 			],
@@ -146,10 +150,6 @@
 			[
 				"text",
 				"text-decoration"
-			],
-			[
-				"ba",
-				"background-color"
 			],
 			[
 				"bo",
@@ -399,39 +399,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "www/index_old.html",
-			"settings":
-			{
-				"buffer_size": 1928,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "www/index.html",
-			"settings":
-			{
-				"buffer_size": 11297,
-				"line_ending": "Unix",
-				"name": "index.html"
-			}
-		},
-		{
-			"file": "plugins/com.urbanairship.phonegap.PushNotification/README.md",
-			"settings":
-			{
-				"buffer_size": 17634,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "plugins/com.urbanairship.phonegap.PushNotification/Example/index.html",
-			"settings":
-			{
-				"buffer_size": 11296,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -439,6 +406,14 @@
 		"height": 167.0,
 		"selected_items":
 		[
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add .",
+				"Git: Add..."
+			],
 			[
 				"set js",
 				"Set Syntax: JSON"
@@ -680,7 +655,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 593.0
+		"width": 638.0
 	},
 	"console":
 	{
@@ -697,9 +672,28 @@
 	},
 	"file_history":
 	[
-		"/Users/leeblazek/Dropbox/hackakl/hackakl-express/trakl_express.sublime-project",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/www/attributions.html",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/www/js/app.js",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/www/page2.html",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/www/page1.html",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/www/styles/app.css",
 		"/Users/leeblazek/Dropbox/hackakl/trakl/config.xml",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/AndroidManifest.xml",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/angular/javascripts/app.js",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/angular/offer_template.html",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/www/index.html",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/www/secondary.html",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/www/page3.html",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/www/main_navigator.html",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/www/secondary_navigator.html",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/www/css/index.css",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/www/index_us.html",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/www/index_on.html",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/trakl_cordova.sublime-project",
 		"/Users/leeblazek/Dropbox/hackakl/trakl/plugins/com.urbanairship.phonegap.PushNotification/README.md",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/www/index_old.html",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/plugins/com.urbanairship.phonegap.PushNotification/Example/index.html",
+		"/Users/leeblazek/Dropbox/hackakl/hackakl-express/trakl_express.sublime-project",
 		"/Users/leeblazek/Dropbox/hackakl/hackakl-express/views/index.jade",
 		"/Users/leeblazek/Dropbox/hackakl/hackakl-express/views/layout.jade",
 		"/Users/leeblazek/Dropbox/touchcast/heatmap.js-master/demo/maps_heatmap_layer/gmaps.html",
@@ -732,10 +726,8 @@
 		"/Applications/MAMP/htdocs/keeper/build/expediainc/apply.html",
 		"/Applications/MAMP/htdocs/keeper/build/keeperbase/apply.html",
 		"/Applications/MAMP/htdocs/keeper/searchapp/templates/about.html",
-		"/Users/leeblazek/Dropbox/findly/keeper-express/public/angular/offer_template.html",
 		"/Users/leeblazek/Dropbox/findly/keeper-express/public/offer_template.html",
 		"/Users/leeblazek/Dropbox/findly/keeper-express/public/angular/javascripts/fieldDemoData2.json",
-		"/Users/leeblazek/Dropbox/findly/keeper-express/public/angular/javascripts/app.js",
 		"/Users/leeblazek/Dropbox/findly/keeper-express/app.js",
 		"/Users/leeblazek/Desktop/angular/index.html",
 		"/Users/leeblazek/Dropbox/findly/keeper-express/public/angular/css/offer-group.css",
@@ -807,24 +799,7 @@
 		"/Users/leeblazek/Desktop/dude.jsp",
 		"/Applications/MAMP/htdocs/search.html",
 		"/Applications/MAMP/htdocs/keeper/searchapp/less/custom.less",
-		"/Users/leeblazek/Library/Application Support/Sublime Text 2/Packages/LESS/README.md",
-		"/Users/leeblazek/Library/Application Support/Sublime Text 2/Packages/Less2Css/README.md",
-		"/Applications/MAMP/htdocs/keeper/.gitignore",
-		"/Users/leeblazek/Dropbox/findly/keeper/keeper.service.solution/keeper.service.web/src/main/webapp/WEB-INF/views/search.html",
-		"/Applications/MAMP/htdocs/keeper/searchapp/templates/menu.html",
-		"/Applications/MAMP/htdocs/keeper/searchapp/js/views/refinesearch.js",
-		"/Applications/MAMP/htdocs/keeper/searchapp/templates/create.html",
-		"/Applications/MAMP/htdocs/keeper/searchapp/templates/login.html",
-		"/Applications/MAMP/htdocs/keeper/searchapp/Gruntfile.js",
-		"/Applications/MAMP/htdocs/keeper/searchapp/js/libs/vendor/connect.findly.lightbox.js",
-		"/Applications/MAMP/htdocs/keeper/searchapp/search.html",
-		"/Applications/MAMP/htdocs/keeper/searchapp/js/libs/lightbox.js",
-		"/Users/leeblazek/Desktop/lightboxnew.js",
-		"/Applications/MAMP/htdocs/keeper/searchapp/js/libs/msgbus.js",
-		"/Applications/MAMP/htdocs/keeper/searchapp/js/views/featuredjobs.js",
-		"/Applications/MAMP/htdocs/keeper/searchapp/js/views/resultslist.js",
-		"/Applications/MAMP/htdocs/keeper/searchapp/js/controllers/search/searchpage.js",
-		"/Applications/MAMP/htdocs/keeper/searchapp/js/entities/job.js"
+		"/Users/leeblazek/Library/Application Support/Sublime Text 2/Packages/LESS/README.md"
 	],
 	"find":
 	{
@@ -851,6 +826,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Ponsonby",
 			"\"count\"",
 			"\"lng\"",
 			"\"lat\"",
@@ -900,126 +876,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "www/index_old.html",
-					"settings":
-					{
-						"buffer_size": 1928,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1658,
-								1658
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 443.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "www/index.html",
-					"settings":
-					{
-						"buffer_size": 11297,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								811,
-								811
-							]
-						],
-						"settings":
-						{
-							"auto_name": "index.html",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "plugins/com.urbanairship.phonegap.PushNotification/README.md",
-					"settings":
-					{
-						"buffer_size": 17634,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 9752.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 3,
-					"file": "plugins/com.urbanairship.phonegap.PushNotification/Example/index.html",
-					"settings":
-					{
-						"buffer_size": 11296,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								11296
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1040,18 +898,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
