@@ -1,0 +1,1135 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"background"
+			],
+			[
+				"bacground-",
+				"background-image"
+			],
+			[
+				"heatma",
+				"heatmapLayer"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"json",
+				"jsonNewData"
+			],
+			[
+				"fieds",
+				"fields2"
+			],
+			[
+				"sho",
+				"show"
+			],
+			[
+				"newThis",
+				"newThisOptions"
+			],
+			[
+				"newthis",
+				"newThisOptions"
+			],
+			[
+				"te",
+				"text	.text"
+			],
+			[
+				"newDa",
+				"newData2"
+			],
+			[
+				"to",
+				"toArray	toArray"
+			],
+			[
+				"remove",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"rem",
+				"removeClass	.removeClass"
+			],
+			[
+				"field",
+				"fieldTypes"
+			],
+			[
+				"remo",
+				"remove"
+			],
+			[
+				"fiel",
+				"fieldName"
+			],
+			[
+				"has",
+				"hasClass	.hasClass"
+			],
+			[
+				"actif",
+				"activeField"
+			],
+			[
+				"activeFields",
+				"activeFieldsList"
+			],
+			[
+				"activeFie",
+				"activeFieldsList"
+			],
+			[
+				"pre",
+				"prepend	.prepend"
+			],
+			[
+				"edit",
+				"editFields"
+			],
+			[
+				"eac",
+				"each"
+			],
+			[
+				"activeFi",
+				"activeFieldsList"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ke",
+				"keydown	keydown"
+			],
+			[
+				"nex",
+				"nextUntil	.nextUntil"
+			],
+			[
+				"fieldty",
+				"fieldTypesEmpty"
+			],
+			[
+				"btnSave",
+				"btnSaveEdit"
+			],
+			[
+				"each",
+				"each	.each()"
+			],
+			[
+				"fieldTy",
+				"fieldTypeEmpty"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"active",
+				"activeFieldsList"
+			],
+			[
+				"clo",
+				"closest	.closest()"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"image",
+				"background-image"
+			],
+			[
+				"drop",
+				"dropDown"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"check",
+				"checkRenderComplete"
+			],
+			[
+				"bu",
+				"build"
+			],
+			[
+				"organ",
+				"organizationId"
+			],
+			[
+				"requ",
+				"require"
+			],
+			[
+				"console",
+				"console.	console.log()"
+			],
+			[
+				"light",
+				"lightboxClick"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"state-danger",
+				"state-danger-bg"
+			],
+			[
+				"state-dan",
+				"state-danger-border"
+			],
+			[
+				"cl",
+				"click	click"
+			],
+			[
+				"cons",
+				"console.	console.log()"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"ite",
+				"ItemView"
+			],
+			[
+				"Back",
+				"Backbone.Marionette"
+			],
+			[
+				"angry",
+				"AngryCat"
+			],
+			[
+				"exten",
+				"extend"
+			],
+			[
+				"coll",
+				"Collection"
+			],
+			[
+				"ext",
+				"extend"
+			],
+			[
+				"add",
+				"addRegions"
+			],
+			[
+				"backbon",
+				"Backbone.Marionette"
+			],
+			[
+				"val",
+				"val	.val()"
+			],
+			[
+				"tri",
+				"trigger	trigger"
+			],
+			[
+				"tr",
+				"trigger	trigger"
+			],
+			[
+				"firs",
+				"firstPage2"
+			],
+			[
+				"pr",
+				"profile"
+			],
+			[
+				"glo",
+				"globalJsonVar"
+			],
+			[
+				"string",
+				"stringdata"
+			],
+			[
+				"pro",
+				"profiledata2"
+			],
+			[
+				"con",
+				"console.	console.log()"
+			],
+			[
+				"na",
+				"nationality"
+			],
+			[
+				"m",
+				"mar	margin"
+			],
+			[
+				"reg",
+				"regexp"
+			],
+			[
+				"matc",
+				"match"
+			],
+			[
+				"re",
+				"regexp2"
+			],
+			[
+				"mat",
+				"matches_array2"
+			],
+			[
+				"flight",
+				"flights"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"lis",
+				"list	list-style-type"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"magin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"logo",
+				"logo_wrapper"
+			],
+			[
+				"bi",
+				"background-image"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"co",
+				"col	color"
+			],
+			[
+				"rota",
+				"rotate45"
+			],
+			[
+				"top",
+				"top-bar-section"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"mb",
+				"mb	margin-bottom"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/index_old.html",
+			"settings":
+			{
+				"buffer_size": 1928,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/index.html",
+			"settings":
+			{
+				"buffer_size": 11297,
+				"line_ending": "Unix",
+				"name": "index.html"
+			}
+		},
+		{
+			"file": "plugins/com.urbanairship.phonegap.PushNotification/README.md",
+			"settings":
+			{
+				"buffer_size": 17634,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "plugins/com.urbanairship.phonegap.PushNotification/Example/index.html",
+			"settings":
+			{
+				"buffer_size": 11296,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"set js",
+				"Set Syntax: JSON"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"angul",
+				"Snippet: Google CDN Angular JS script include"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"boiler",
+				"Snippet: htmlboiler"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"log",
+				"Snippet: console.log()"
+			],
+			[
+				"con",
+				"Snippet: console.log()"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"console",
+				"Snippet: console.log()"
+			],
+			[
+				"han",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"diable",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"diff",
+				"Git: Diff All"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"c",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"ush",
+				"Git: Push Current Branch"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"psh",
+				"Git: Push"
+			],
+			[
+				"pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"a",
+				"Git: Add..."
+			],
+			[
+				"puh",
+				"Git: Push Current Branch"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"git phc",
+				"Git: Push Current Branch"
+			],
+			[
+				"pu b",
+				"Git: Push Current Branch"
+			],
+			[
+				"git pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"bea",
+				"Package Control: Enable Package"
+			],
+			[
+				"b",
+				"Git: Change Branch"
+			],
+			[
+				"form",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"git push ",
+				"Git: Push Current Branch"
+			],
+			[
+				"git puh",
+				"Git: Push Current Branch"
+			],
+			[
+				"GITS",
+				"Git: Commit history"
+			],
+			[
+				"GIT C",
+				"Git: Commit"
+			],
+			[
+				"GIT",
+				"Git: Add..."
+			],
+			[
+				"GIT ",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Show Tags"
+			],
+			[
+				"TIDY",
+				"Tidy HTML"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"pret",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 427.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/leeblazek/Dropbox/hackakl/hackakl-express/trakl_express.sublime-project",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/config.xml",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/plugins/com.urbanairship.phonegap.PushNotification/README.md",
+		"/Users/leeblazek/Dropbox/hackakl/hackakl-express/views/index.jade",
+		"/Users/leeblazek/Dropbox/hackakl/hackakl-express/views/layout.jade",
+		"/Users/leeblazek/Dropbox/touchcast/heatmap.js-master/demo/maps_heatmap_layer/gmaps.html",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/ckeditor/ckeditor_dev/samples/email_template_editor.html",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/ckeditor/ckeditor_dev/config.js",
+		"/Users/leeblazek/Downloads/view.searchresultemail.js",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/ckeditor/view.searchresultemail.js",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/ckeditor/ckeditor_dev/samples/jquery.html",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/ckeditor/ckeditor_dev/samples/replacebyclass.html",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/ckeditor/ckeditor_dev/samples/index.html",
+		"/Users/leeblazek/Dropbox/firefox_apps/firefoxtest/platforms/firefoxos/www/index.html",
+		"/Users/leeblazek/Dropbox/firefox_apps/firefoxtest/config.xml",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/views/search.js",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/views/menu.js",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/views/about.js",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/views/changepassword.js",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/main.js",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/app.js",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/controllers/search/about.js",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/controllers/search/digitalsignature.js",
+		"/Applications/MAMP/htdocs/keeper/gruntfile.js",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/routers/search.js",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/views/resetpassword.js",
+		"/Applications/MAMP/htdocs/keeper/searchapp/templates/job.html",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/views/job.js",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/controllers/search/job.js",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/controllers/search/login.js",
+		"/Applications/MAMP/htdocs/keeper_not_git/search.html",
+		"/Applications/MAMP/htdocs/keeper_not_git/apply.html",
+		"/Applications/MAMP/htdocs/keeper/build/expediainc/apply.html",
+		"/Applications/MAMP/htdocs/keeper/build/keeperbase/apply.html",
+		"/Applications/MAMP/htdocs/keeper/searchapp/templates/about.html",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/angular/offer_template.html",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/offer_template.html",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/angular/javascripts/fieldDemoData2.json",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/angular/javascripts/app.js",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/app.js",
+		"/Users/leeblazek/Desktop/angular/index.html",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/angular/css/offer-group.css",
+		"/Users/leeblazek/Desktop/angular/todo.js",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/angular/javascripts/sortable.js",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/angular/index.html",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/handlebars-helpers.js",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/angular/templates/fieldlist-template.hbs",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/angular/javascripts/FrontEndSendToBackEndUpdateOfferTemplate.json",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/angular/templates/test2.hbs",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/angular/templates/field-template.hbs",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/angular/javascripts/fieldDemoData.json",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/angular/javascripts/GetOfferTemplate.json",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/templates/test2.hbs",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/javascripts/fieldDemoData2.json",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/templates/fieldlist-template.hbs",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/templates/test.hbs",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/constants.js",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/javascripts/handlebars-helper-x.js",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/templates/fieldlist-template-old.hbs",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/templates/field-template.hbs",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/javascripts/fieldDemoData.json",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/routes/takeData.js",
+		"/Users/leeblazek/Dropbox/findly/findly_push/findlypush/app.js",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/routes/user.js",
+		"/Users/leeblazek/Dropbox/findly/findly_push/findlypush/procfile",
+		"/Users/leeblazek/Dropbox/findly/findly_push/findlypush/.gitignore",
+		"/Users/leeblazek/Dropbox/findly/findly_push/findlypush/views/submitted.jade",
+		"/Users/leeblazek/Dropbox/findly/findly_push/findlypush/package.json",
+		"/Users/leeblazek/Dropbox/findly/findly_push/findlypush/routes/index.js",
+		"/Users/leeblazek/Dropbox/findly/findly_push/findlypush/routes/user.js",
+		"/Users/leeblazek/Dropbox/findly/findly_push/findlypush/views/index.jade",
+		"/Users/leeblazek/Dropbox/findly/findly_push/findlypush/routes/submitted.js",
+		"/Users/leeblazek/Dropbox/findly/findly_push/findlypush/node_modules/urban-airship-push/README.md",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/javascripts/old_questionforms_data.js",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/css/offer-group.css",
+		"/Users/leeblazek/Dropbox/findly/keeper-express/public/handlebars-helper-x.js",
+		"/Users/leeblazek/Dropbox/firebase/firebase-angular-starter-pack-master/Todo/index.html",
+		"/Users/leeblazek/Dropbox/firebase/firebase-angular-starter-pack-master/Todo/js/controllers/todoCtrl.js",
+		"/Users/leeblazek/Dropbox/firebase/firebase_tutorial.html",
+		"/Users/leeblazek/Dropbox/firebase/firebase-angular-starter-pack-master/Todo/demo.png",
+		"/Users/leeblazek/Dropbox/firefox_apps/firefox_bikefest_app/www/index.html",
+		"/Users/leeblazek/Dropbox/firefox_apps/firefox_bikefest_app/www/manifest.webapp",
+		"/Users/leeblazek/Dropbox/firefox_apps/battery-quickstart-starter-template-master/manifest.webapp",
+		"/Users/leeblazek/Dropbox/firefox_apps/battery-quickstart-starter-template-master/scripts/install.js",
+		"/Users/leeblazek/Dropbox/firefox_apps/battery-quickstart-starter-template-master/scripts/battery.js",
+		"/Applications/MAMP/htdocs/keeper_hbs/constants.js",
+		"/Applications/MAMP/htdocs/keeper_hbs/handlebars-helpers.js",
+		"/Applications/MAMP/htdocs/keeper_hbs/templates/fieldlist-template.hbs",
+		"/Applications/MAMP/htdocs/keeper_hbs/templates/field-template.hbs",
+		"/Applications/MAMP/htdocs/keeper_hbs/sortable_test/index.html",
+		"/Applications/MAMP/htdocs/keeper_hbs/css/offer-group.css",
+		"/Applications/MAMP/htdocs/jquery_hbs/sortable_test/index.html",
+		"/Applications/MAMP/htdocs/jquery_hbs/handlebars-helpers.js",
+		"/Applications/MAMP/htdocs/keeper_questions/Online Career Center_files/views.question.js",
+		"/Applications/MAMP/htdocs/jquery_hbs/templates/field-template.hbs",
+		"/Applications/MAMP/htdocs/jquery_hbs/index.html",
+		"/Applications/MAMP/htdocs/jquery_hbs/templates/fieldlist-template.hbs",
+		"/Applications/MAMP/htdocs/jquery_hbs/templates/questionlist-template.hbs",
+		"/Applications/MAMP/htdocs/jquery_hbs/templates/question-template.hbs",
+		"/Applications/MAMP/htdocs/jquery_hbs/templates/template.hbs",
+		"/Applications/MAMP/htdocs/keeper_questions/Online Career Center_files/handlebars-helper.js",
+		"/Applications/MAMP/htdocs/jquery_hbs/constants.js",
+		"/Applications/MAMP/htdocs/keeper_questions/Online Career Center_files/constants.js",
+		"/Applications/MAMP/htdocs/keeper_questions/Online Career Center.html",
+		"/Applications/MAMP/htdocs/keeper_questions/Online Career Center_files/common-helper.js",
+		"/Applications/MAMP/htdocs/keeper_questions/Online Career Center_files/main.js",
+		"/Applications/MAMP/htdocs/keeper_questions/Online Career Center_files/logo_findly.png",
+		"/Users/leeblazek/Desktop/dude.jsp",
+		"/Applications/MAMP/htdocs/search.html",
+		"/Applications/MAMP/htdocs/keeper/searchapp/less/custom.less",
+		"/Users/leeblazek/Library/Application Support/Sublime Text 2/Packages/LESS/README.md",
+		"/Users/leeblazek/Library/Application Support/Sublime Text 2/Packages/Less2Css/README.md",
+		"/Applications/MAMP/htdocs/keeper/.gitignore",
+		"/Users/leeblazek/Dropbox/findly/keeper/keeper.service.solution/keeper.service.web/src/main/webapp/WEB-INF/views/search.html",
+		"/Applications/MAMP/htdocs/keeper/searchapp/templates/menu.html",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/views/refinesearch.js",
+		"/Applications/MAMP/htdocs/keeper/searchapp/templates/create.html",
+		"/Applications/MAMP/htdocs/keeper/searchapp/templates/login.html",
+		"/Applications/MAMP/htdocs/keeper/searchapp/Gruntfile.js",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/libs/vendor/connect.findly.lightbox.js",
+		"/Applications/MAMP/htdocs/keeper/searchapp/search.html",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/libs/lightbox.js",
+		"/Users/leeblazek/Desktop/lightboxnew.js",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/libs/msgbus.js",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/views/featuredjobs.js",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/views/resultslist.js",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/controllers/search/searchpage.js",
+		"/Applications/MAMP/htdocs/keeper/searchapp/js/entities/job.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>",
+			"/Applications/MAMP/htdocs/keeper/searchapp",
+			"",
+			"<open files>",
+			"",
+			"<open files>",
+			"",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"count\"",
+			"\"lng\"",
+			"\"lat\"",
+			"messages",
+			"tru",
+			"hid",
+			"activeOptions",
+			"addDraggable",
+			"fieldGroup.",
+			"fieldGroup",
+			"question",
+			"numberOfEmptyRows",
+			"outputEmptyTableRows",
+			"img",
+			"about",
+			"title",
+			"find",
+			"pCmdCLientId",
+			"jsfCmdId",
+			"sidebarview",
+			"control",
+			"control	",
+			"control",
+			"<",
+			"'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"count",
+			"lng",
+			"lat",
+			"options",
+			"addInteractivity",
+			"",
+			"field"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/index_old.html",
+					"settings":
+					{
+						"buffer_size": 1928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1658,
+								1658
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 443.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/index.html",
+					"settings":
+					{
+						"buffer_size": 11297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								811,
+								811
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "plugins/com.urbanairship.phonegap.PushNotification/README.md",
+					"settings":
+					{
+						"buffer_size": 17634,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9752.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "plugins/com.urbanairship.phonegap.PushNotification/Example/index.html",
+					"settings":
+					{
+						"buffer_size": 11296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								11296
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 527.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"plusone",
+				"jquery_hbs/templates/question-template.hbs"
+			],
+			[
+				"ha",
+				"jquery_hbs/handlebars-helpers.js"
+			],
+			[
+				"comm",
+				"Online Career Center_files/common-helper.js"
+			],
+			[
+				"app.",
+				"findly_project/css/app.css"
+			],
+			[
+				"flights",
+				"flight/index.js"
+			],
+			[
+				"app",
+				"themes/lapisa/css/app.css"
+			],
+			[
+				"logo",
+				"themes/lapisa/templates/Includes/logo.ss"
+			],
+			[
+				"slider",
+				"themes/lapisa/templates/Includes/slider.ss"
+			],
+			[
+				"upload",
+				"framework/forms/UploadField.php"
+			],
+			[
+				"uplo",
+				"framework/_config/uploadfield.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true
+}

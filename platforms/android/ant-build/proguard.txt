@@ -1,0 +1,36 @@
+# view AndroidManifest.xml #generated:6
+-keep class com.berzerk.trakl.trakl { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class com.urbanairship.CoreReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class com.urbanairship.UrbanAirshipProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class com.urbanairship.actions.ActionActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.urbanairship.actions.ActionService { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class com.urbanairship.actions.LandingPageActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class com.urbanairship.analytics.EventService { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class com.urbanairship.location.LocationService { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class com.urbanairship.phonegap.PushReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class com.urbanairship.push.GCMPushReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class com.urbanairship.push.PushService { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class com.urbanairship.push.PushWorkerService { <init>(...); }
+

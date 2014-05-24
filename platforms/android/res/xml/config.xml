@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.berzerk.trakl" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <preference name="loglevel" value="DEBUG" />
+    <feature name="App">
+        <param name="android-package" value="org.apache.cordova.App" />
+    </feature>
+    <feature name="Device">
+        <param name="android-package" value="org.apache.cordova.device.Device" />
+    </feature>
+    <name>trakl</name>
+    <description>
+        Trakl
+    </description>
+    <author email="info@berzerk.co.nz" href="http://berzerk.co.nz">
+        Berzerk
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <feature name="PushNotificationPlugin">
+        <param name="android-package" value="com.urbanairship.phonegap.PushNotificationPlugin" />
+        <param name="ios-package" value="PushNotificationPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <preference name="com.urbanairship.production_app_key" value="fy8lI83bT12h-Y6P-fZQ4A" />
+    <preference name="com.urbanairship.production_app_secret" value="OI1XF3UfSpmlaSczbeU41A" />
+    <preference name="com.urbanairship.development_app_key" value="X5diE07QRKCKvxwvIO9lCg" />
+    <preference name="com.urbanairship.development_app_secret" value="DNls_9ffQ6yj8LxO5s1EEw" />
+    <preference name="com.urbanairship.gcm_sender" value="275695440612" />
+    <preference name="com.urbanairship.in_production" value="false" />
+    <preference name="com.urbanairship.enable_push_onlaunch" value="true" />
+</widget>

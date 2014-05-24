@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.berzerk.trakl" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <preference name="AllowInlineMediaPlayback" value="false" />
+    <preference name="AutoHideSplashScreen" value="true" />
+    <preference name="BackupWebStorage" value="cloud" />
+    <preference name="DisallowOverscroll" value="false" />
+    <preference name="EnableViewportScale" value="false" />
+    <preference name="FadeSplashScreen" value="true" />
+    <preference name="FadeSplashScreenDuration" value=".25" />
+    <preference name="KeyboardDisplayRequiresUserAction" value="true" />
+    <preference name="MediaPlaybackRequiresUserAction" value="false" />
+    <preference name="ShowSplashScreenSpinner" value="true" />
+    <preference name="SuppressesIncrementalRendering" value="false" />
+    <preference name="TopActivityIndicator" value="gray" />
+    <preference name="GapBetweenPages" value="0" />
+    <preference name="PageLength" value="0" />
+    <preference name="PaginationBreakingMode" value="page" />
+    <preference name="PaginationMode" value="unpaginated" />
+    <feature name="LocalStorage">
+        <param name="ios-package" value="CDVLocalStorage" />
+    </feature>
+    <feature name="Device">
+        <param name="ios-package" value="CDVDevice" />
+    </feature>
+    <name>trakl</name>
+    <description>
+        Trakl
+    </description>
+    <author email="info@berzerk.co.nz" href="http://berzerk.co.nz">
+        Berzerk
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <feature name="PushNotificationPlugin">
+        <param name="ios-package" value="PushNotificationPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <preference name="com.urbanairship.production_app_key" value="fy8lI83bT12h-Y6P-fZQ4A" />
+    <preference name="com.urbanairship.production_app_secret" value="OI1XF3UfSpmlaSczbeU41A" />
+    <preference name="com.urbanairship.development_app_key" value="X5diE07QRKCKvxwvIO9lCg" />
+    <preference name="com.urbanairship.development_app_secret" value="DNls_9ffQ6yj8LxO5s1EEw" />
+    <preference name="com.urbanairship.in_production" value="false" />
+    <preference name="com.urbanairship.enable_push_onlaunch" value="true" />
+</widget>
