@@ -7,7 +7,7 @@
 			ng-click="ons.splitView.toggle();
 				ons.splitView.setMainPage('main_navigator.html');">
 			<i class="fa fa-home fa-lg" style="color: #666"></i>
-			&nbsp; Page 1
+			&nbsp; Home
 		</ons-list-item>
 
 		<ons-list-item 
@@ -15,7 +15,14 @@
 			ng-click="ons.splitView.toggle();
 				ons.splitView.setMainPage('page2.html');">
 			<i class="fa fa-gear fa-lg" style="color: #666"></i>
-			&nbsp; Page 2
+			&nbsp; Settings
+		</ons-list-item>
+		<ons-list-item 
+			class="topcoat-list__item--tappable topcoat-list__item__line-height"
+			ng-click="ons.splitView.toggle();
+				ons.splitView.setMainPage('attributions.html');">
+			<i class="fa fa-code fa-lg" style="color: #666"></i>
+			&nbsp; Attributions
 		</ons-list-item>
 
 	</ul>

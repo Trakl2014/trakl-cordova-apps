@@ -6,14 +6,14 @@
          
      }
      .pieBackground {
-          background-color: grey;
+          background-color: blue;
           position: absolute;
-          width: 60%;
-          height: 60%;
-          -moz-border-radius: 30%;
-          -webkit-border-radius: 30%;
-          -o-border-radius: 30%;
-          border-radius: 30%;
+          width: 200px;
+          height: 200px;
+          -moz-border-radius: 100px;
+          -webkit-border-radius: 100px;
+          -o-border-radius: 100px;
+          border-radius: 100px;
           -moz-box-shadow: -1px 1px 3px #000;
           -webkit-box-shadow: -1px 1px 3px #000;
           -o-box-shadow: -1px 1px 3px #000;
@@ -21,28 +21,44 @@
      } 
      .pie {
           position: absolute;
-          width: 100px;
-          height: 100px;
-          -moz-border-radius: 50px;
-          -webkit-border-radius: 50px;
-          -o-border-radius: 50px;
-          border-radius: 50px;
-          clip: rect(0px, 50px, 100px, 0px);
+          width: 200px;
+          height: 200px;
+          -moz-border-radius: 100px;
+          -webkit-border-radius: 100px;
+          -o-border-radius: 100px;
+          border-radius: 100px;
+          clip: rect(0px, 100px, 200px, 0px);
      }
      .hold {
           position: absolute;
-          width: 100px;
-          height: 100px;
-          -moz-border-radius: 50px;
-          -webkit-border-radius: 50px;
-          -o-border-radius: 50px;
-          border-radius: 50px;
-          clip: rect(0px, 100px, 100px, 50px);
+          width: 200px;
+          height: 200px;
+          -moz-border-radius: 100px;
+          -webkit-border-radius: 100px;
+          -o-border-radius: 100px;
+          border-radius: 100px;
+          clip: rect(0px, 200px, 200px, 100px);
      }
      #pieSlice1 .pie {
-          background-color: #1b458b;
+          background-color: #99c380;
           -webkit-transform:rotate(50deg);
           -moz-transform:rotate(50deg);
           -o-transform:rotate(50deg);
           transform:rotate(50deg);
      }
+
+
+/*arc color   #99c380 */
+.gohome {
+     background-color: #D7F4D7;
+     color: #106837;
+}
+/*arc color #da7d82;*/
+.dontgo {
+     background-color: #fecccc;
+     color: #c1272e;
+}
+
+.attributions li {
+     list-style-type: none;
+}
