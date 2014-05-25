@@ -49,15 +49,17 @@
 
 
 /*arc color   #99c380 */
-.gohome {
-     background-color: #D7F4D7;
-     color: #106837;
-     height: 690px;
-}
+
 /*arc color #da7d82;*/
 .dontgo {
      background-color: #fecccc;
      color: #c1272e;
+}
+
+.gohome {
+     background-color: #D7F4D7;
+     color: #106837;
+     height: 690px;
 }
 
 .attributions li {
@@ -72,16 +74,19 @@
 }
 
 .trendIndicator {
-        background-repeat: no-repeat;
-     width: 313px;
+     background-repeat: no-repeat;
+     background-size: contain;
+     width: 200px;
      height: 75px;
      margin: 20px auto;  
 }
-.gohome .trendIndicator {
-     background-image: url(../img/green-arrow.svg);
 
-}
 
 .dontgo .trendIndicator {
      background-image: url(../img/red-arrow.svg);
+}
+
+.gohome .trendIndicator {
+     background-image: url(../img/green-arrow.svg);
+
 }
