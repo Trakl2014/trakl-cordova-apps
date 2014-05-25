@@ -11,14 +11,14 @@
         }
 
         console.log('dude')
-        $scope.sampleResponse = {
-            __v: 0,
-            _id: "5380ba48cd8df6ef3d6436dc",
-            isImproving: "true",
-            journeyRef: "R05-EB",
-            travelMinutes: "26",
-            userId: "44"
-        }
+        // $scope.sampleResponse = {
+        //     __v: 0,
+        //     _id: "5380ba48cd8df6ef3d6436dc",
+        //     isImproving: "true",
+        //     journeyRef: "R05-EB",
+        //     travelMinutes: "26",
+        //     userId: "44"
+        // }
 
         $scope.trafficData = [];
         console.log($scope.data)
@@ -27,7 +27,7 @@
             console.log('handle', $scope.sampleResponse, data)
         }
         $scope.fetch = function() {
-            $http.get('/api/travel-time?userId=44').success($scope.handleDataLoaded);
+            $http.get('http://trakl.herokuapp.com/api/travel-time?userId=44').success($scope.handleDataLoaded);
             // $http({
             //     method: 'GET',
             //     url: 'javascripts/fieldDemoData2.json'
