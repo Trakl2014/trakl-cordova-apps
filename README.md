@@ -10,7 +10,7 @@ If you are testing the html UI you need ot do it in a server like node or use fe
 May remove the platforms folder at later point since its rebuilt all the time any ways, to save time pushing git..
 
 Here is code for cordova config.xml that's removed from repo.  Depending on whether clone this, or build a cordova app from scratch then imoport some of this it need to have the extra UA stuff below:
-
+````
 <?xml version='6.0' encoding='utf-8'?>
 <widget id="com.berzerk.trakl" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>trakl</name>
@@ -44,3 +44,4 @@ Here is code for cordova config.xml that's removed from repo.  Depending on whet
 
 
 </widget>
+````
