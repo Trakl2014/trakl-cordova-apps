@@ -146,6 +146,8 @@
 .dontgo {
      background-color: #fecccc;
      color: #c1272e;
+     padding: 10px;
+/*     margin: -15px -10px 0 -10px;*/
 }
 
 .gohome {
@@ -181,5 +183,18 @@
 
 .gohome .trendIndicator {
      background-image: url(../img/green-arrow.svg);
+
+}
+.img-50 img {
+     width: 50%;
+}
+
+.loader {
+     background: url(../img/362.GIF) no-repeat center;
+     width: 220px;
+     height: 280px;
+     margin: auto;
+     padding: 20px;
+
 
 }

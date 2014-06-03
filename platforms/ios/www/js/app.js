@@ -1,7 +1,7 @@
 (function() {
     'use strict';
     var onsenApp = angular.module('myApp', ['onsen.directives']);
-    onsenApp.controller('dataCtrl', function($scope, $http) {
+    onsenApp.controller('dataCtrl', function($scope, $http, $interval) {
         $scope.data = [];
         $scope.sampleResponse_old = {
             "userId": "24",
@@ -9,8 +9,9 @@
             "travelMinutes": "34",
             "isImproving": true
         }
-
-        console.log('dude')
+        $scope.startTime = 4;
+        $scope.duration = 2;
+        $scope.showLoader = true;
         // $scope.sampleResponse = {
         //     __v: 0,
         //     _id: "5380ba48cd8df6ef3d6436dc",
@@ -21,13 +22,16 @@
         // }
 
         $scope.trafficData = [];
-        console.log($scope.data)
+        console.log($scope.data);
         $scope.handleDataLoaded = function(data, status) {
             $scope.sampleResponse = data;
             console.log('handle', $scope.sampleResponse, data)
+            $scope.showLoader = false;
         }
+
         $scope.fetch = function() {
             $http.get('http://trakl.herokuapp.com/api/travel-time?userId=44').success($scope.handleDataLoaded);
+            console.log('scope fetch')
             // $http({
             //     method: 'GET',
             //     url: 'javascripts/fieldDemoData2.json'
@@ -40,5 +44,7 @@
             // });
         }
         $scope.fetch();
+        $interval($scope.fetch, 5000);
+
     })
 })();

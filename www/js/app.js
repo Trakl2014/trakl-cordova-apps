@@ -9,7 +9,9 @@
             "travelMinutes": "34",
             "isImproving": true
         }
-
+        $scope.startTime = 4;
+        $scope.duration = 2;
+        $scope.showLoader = true;
         // $scope.sampleResponse = {
         //     __v: 0,
         //     _id: "5380ba48cd8df6ef3d6436dc",
@@ -24,6 +26,7 @@
         $scope.handleDataLoaded = function(data, status) {
             $scope.sampleResponse = data;
             console.log('handle', $scope.sampleResponse, data)
+            $scope.showLoader = false;
         }
 
         $scope.fetch = function() {

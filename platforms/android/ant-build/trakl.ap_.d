@@ -26,12 +26,9 @@
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/attributions.html \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/cordova.js \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/cordova_plugins.js \
-/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/css \
-/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/images \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/img \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/index.html \
-/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/index_old.html \
-/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/index_us.html \
+/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/index_ua.html \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/js \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/lib \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/main_navigator.html \
@@ -42,19 +39,11 @@
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/secondary.html \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/secondary_navigator.html \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/styles \
-/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/css/index 2.css \
-/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/css/index.css \
-/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/css/jquery.mobile-1.1.1.css \
-/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/css/mobiscroll.core-2.0.1.css \
-/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/css/mobiscroll.jqm-2.0.1.css \
-/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/images/ico_swipe_right_s.png \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/img/green-arrow.svg \
-/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/img/logo.png \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/img/red-arrow.svg \
+/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/img/trakl_team_above_shot.jpg \
+/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/img/trakl_team_optimized.jpg \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/js/app.js \
-/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/js/index.js \
-/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/js/jquery.js \
-/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/js/jquery.mobile-1.1.1.js \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/lib/onsen \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/lib/onsen/css \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/lib/onsen/img \
