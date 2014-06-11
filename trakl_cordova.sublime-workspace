@@ -672,12 +672,13 @@
 	},
 	"file_history":
 	[
+		"/Users/leeblazek/Dropbox/hackakl/trakl/www/attributions.html",
 		"/Users/leeblazek/Dropbox/hackakl/trakl/www/page1.html",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/www/js/app.js",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/www/page2.html",
+		"/Users/leeblazek/Dropbox/hackakl/trakl/www/index_ua.html",
 		"/Users/leeblazek/Dropbox/hackakl/trakl/www/index.html",
 		"/Users/leeblazek/Dropbox/hackakl/trakl/www/styles/app.css",
-		"/Users/leeblazek/Dropbox/hackakl/trakl/www/js/app.js",
-		"/Users/leeblazek/Dropbox/hackakl/trakl/www/attributions.html",
-		"/Users/leeblazek/Dropbox/hackakl/trakl/www/page2.html",
 		"/Users/leeblazek/Dropbox/hackakl/trakl/config.xml",
 		"/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/AndroidManifest.xml",
 		"/Users/leeblazek/Dropbox/findly/keeper-express/public/angular/javascripts/app.js",
@@ -798,8 +799,7 @@
 		"/Applications/MAMP/htdocs/keeper_questions/Online Career Center_files/logo_findly.png",
 		"/Users/leeblazek/Desktop/dude.jsp",
 		"/Applications/MAMP/htdocs/search.html",
-		"/Applications/MAMP/htdocs/keeper/searchapp/less/custom.less",
-		"/Users/leeblazek/Library/Application Support/Sublime Text 2/Packages/LESS/README.md"
+		"/Applications/MAMP/htdocs/keeper/searchapp/less/custom.less"
 	],
 	"find":
 	{
@@ -981,6 +981,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 170.0,
+	"side_bar_width": 255.0,
 	"status_bar_visible": true
 }

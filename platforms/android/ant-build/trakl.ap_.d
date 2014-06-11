@@ -38,11 +38,14 @@
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/plugins \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/secondary.html \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/secondary_navigator.html \
+/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/settings.html \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/styles \
+/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/img/362.GIF \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/img/green-arrow.svg \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/img/red-arrow.svg \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/img/trakl_team_above_shot.jpg \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/img/trakl_team_optimized.jpg \
+/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/js/angular-resource.min.js \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/js/app.js \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/lib/onsen \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/lib/onsen/css \
@@ -82,6 +85,7 @@
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/lib/onsen/js/onsenui_all.js \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/lib/onsen/js/angular/angular-animate.js \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/lib/onsen/js/angular/angular-csp.css \
+/Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/lib/onsen/js/angular/angular-resource.min.js \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/lib/onsen/js/angular/angular-touch.js \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/lib/onsen/js/angular/angular.js \
 /Users/leeblazek/Dropbox/hackakl/trakl/platforms/android/assets/www/lib/onsen/js/angular/angular.min.js \

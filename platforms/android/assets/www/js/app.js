@@ -1,8 +1,9 @@
 (function() {
     'use strict';
-    var onsenApp = angular.module('myApp', ['onsen.directives']);
-    onsenApp.controller('dataCtrl', function($scope, $http, $interval) {
+    var onsenApp = angular.module('myApp', ['onsen.directives', 'ngResource']);
+    onsenApp.controller('dataCtrl', function($scope, $http, $interval, $rootScope) {
         $scope.data = [];
+        $scope.user = [];
         $scope.sampleResponse_old = {
             "userId": "24",
             "journeyRef": "tamaki",
@@ -11,6 +12,7 @@
         }
         $scope.startTime = 4;
         $scope.duration = 2;
+        $scope.showLoader = true;
         // $scope.sampleResponse = {
         //     __v: 0,
         //     _id: "5380ba48cd8df6ef3d6436dc",
@@ -25,6 +27,7 @@
         $scope.handleDataLoaded = function(data, status) {
             $scope.sampleResponse = data;
             console.log('handle', $scope.sampleResponse, data)
+            $scope.showLoader = false;
         }
 
         $scope.fetch = function() {
@@ -43,6 +46,24 @@
         }
         $scope.fetch();
         $interval($scope.fetch, 5000);
-
+        $scope.login = function() {
+            if ($scope.user.username == undefined) {
+                $rootScope.message = 'You must enter a username and password '
+            }
+            $http.post('http://trakl.herokuapp.com/rest-login', {
+                email: $scope.user.username,
+                password: $scope.user.password,
+            })
+                .success(function(user) {
+                    // No error: authentication OK
+                    $rootScope.message = 'Welcome ' + $scope.user.username;
+                    // $location.url('/admin');
+                })
+                .error(function() {
+                    // Error: authentication failed
+                    $rootScope.message = 'Please re-enter your username and password';
+                    // $location.url('/login');
+                });
+        };
     })
 })();

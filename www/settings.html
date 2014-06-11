@@ -12,7 +12,24 @@
 			  <input type="checkbox" class="topcoat-switch__input">
 			  <div class="topcoat-switch__toggle"></div> 
 			</label> -->
-
+			<form ng-submit="login()" class="ng-scope ng-pristine ng-valid">
+				<h2>{{message}}</h2>
+					<ons-text-input 
+		              ng-model="user.username" 
+		              placeholder="your email address" 
+		              style="width: 100%;">
+		          </ons-text-input>
+		          <ons-text-input 
+		          		placeholder="password"
+		          		ng-model="user.password"
+		              style="width: 100%; margin-top: 8px; display: block">
+		          </ons-text-input>
+		          <ons-button 
+		              type="large" 
+		              style="margin-top: 8px;">
+		              Login
+		          </ons-button>
+			</form>
 			<ons-checkbox 
 		      ng-model="answer" 
 		      ng-true-value="YES" 

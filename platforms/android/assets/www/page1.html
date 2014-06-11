@@ -1,7 +1,12 @@
 <ons-page class="center">
 	<ons-scroller>
-		<div class="page-padding mainDisplay dontgo" ng-class="{gohome: sampleResponse.isImproving}" ng-controller="dataCtrl">
-			<p>to:</p>
+		<div class=" mainDisplay"  ng-controller="dataCtrl" >
+			<div class="loader" ng-show="showLoader">
+			getting traffic data...
+		</div>
+
+			<div class="dontgo" ng-class="{gohome: sampleResponse.isImproving}" ng-hide="showLoader">
+				<p>to:</p>
 			<h1>Home</h1>
 			
 			<!-- 	<div class="pieContainer">
@@ -19,6 +24,11 @@
 				Push Page 3
 			</ons-button> -->
 
-		</div>		
+			</div>
+			
+
+		</div>
+		
+
 	</ons-scroller>	
 </ons-page>
